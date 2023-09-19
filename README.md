@@ -9,4 +9,7 @@ Preview of the homepage
 
 Tech Requirements: HTML, CSS, JavaScript, basic web knowledge
 
-To run: simply start an http server, then the web page is available.
+To run: clone the repository and start any http server, for example:
+  npm install -g http-server
+  http-server
+  open the browser and input the ip address and port
