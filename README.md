@@ -10,7 +10,7 @@ Preview of the homepage
 ![preview](https://github.com/Zhehao9758/Zhehao-portfolio/assets/53250876/bf456d10-d450-4c57-b52e-098d96b56537)
 
 
-Tech Requirements: HTML, CSS, JavaScript, basic web knowledge
+Tech Requirements: HTML, CSS, JavaScript, git, basic web knowledge
 
 
 To run: clone the repository and start any http server, for example:
