@@ -1,2 +1,3 @@
 # Zhehao-portfolio
-This is my web dev class project 1.
+
+This is my web dev class project 1 about my personal homepage.

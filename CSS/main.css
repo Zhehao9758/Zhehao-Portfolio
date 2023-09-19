@@ -1,0 +1,31 @@
+.photo {
+  height: 300px;
+  width: 230px;
+  padding: 10px;
+  margin-right: 50px;
+}
+
+.row-5 {
+  padding-top: 20px;
+  height: 20%;
+}
+
+body {
+  background-color: papayawhip;
+  padding: 50px;
+}
+
+li {
+  white-space: nowrap;
+}
+
+footer {
+  font-size: 15px;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+}
+
+.project-list li {
+  padding-top: 20px;
+}

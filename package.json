@@ -1,0 +1,17 @@
+{
+  "name": "zhehao-portfolio",
+  "version": "1.0.0",
+  "description": "This is my web dev class project 1 about my personal homepage.",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "eslint": "^8.49.0",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhehao9758/Zhehao-portfolio.git"
+  },
+  "author": "Zhehao",
+  "license": "MIT"
+}
