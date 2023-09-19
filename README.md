@@ -7,6 +7,8 @@ This is my web dev class project 1 about my personal homepage.
 
 
 Class: NEU 2023 Fall CS5610
+
+
 Class link: https://northeastern.instructure.com/courses/157047
 
 
