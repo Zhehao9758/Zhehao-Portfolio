@@ -21,3 +21,4 @@ To run: clone the repository and start any http server, for example:
   
   3. open the browser and input the ip address and port
   
+Or just visit https://zhehao9758.github.io/Zhehao-portfolio/
